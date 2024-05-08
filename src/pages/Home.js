@@ -16,8 +16,8 @@ const Home = () => {
             </div>
             <div className="about">
                 <div className="container-1">
-                    <div className="image">
-                        <img src={girl} alt="Girl Image" />
+                    <div className="about-image">
+                        <img src={girl} alt="Girl" />
                         <div className='price'>
                             <div className="price-amount">
                                 <span className='span-1'>$0.5</span>
@@ -115,8 +115,8 @@ const Home = () => {
                     </span>
                 </div>
                 <div className="footer-content-2">
-                    <a href="#">Terms & Conditions</a>
-                    <a href="#">Privacy Policy</a>
+                    <a href="https://www.google.com/">Terms & Conditions</a>
+                    <a href="https://www.google.com/">Privacy Policy</a>
                 </div>
             </div>
         </>
