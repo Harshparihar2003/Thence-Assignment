@@ -1,0 +1,85 @@
+.success-navbar {
+    width: 1, 392px;
+    height: 111.17px;
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.success-navbar-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16.97px 20.89px 16.97px 52.22px;
+    border-radius: 65.28px;
+}
+
+.success-navbar-content img {
+    width: 121px;
+    height: 30.5px;
+    top: 7.86px;
+    left: 6.78px;
+}
+
+.success {
+    margin-top: 500px;
+    width: 718px;
+    height: 357px;
+    margin: 0 auto;
+    gap: 41px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.success .title {
+    font-family: Covered By Your Grace;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 39.6px;
+    letter-spacing: -0.02em;
+    color:
+        rgba(45, 169, 80, 1);
+}
+
+.success .congrats {
+    font-family: Manrope;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 67.2px;
+    letter-spacing: -0.02em;
+    color:
+        rgba(28, 28, 28, 1);
+}
+
+.success .message {
+    font-family: Manrope;
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 35.1px;
+    text-align: center;
+    color:
+        rgba(114, 114, 114, 1);
+}
+
+.success .redirect {
+    margin-top: 110px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color:
+        rgba(114, 114, 114, 1);
+}
+
+.success .redirect .second {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color:
+        rgba(28, 28, 28, 1);
+}

@@ -1,0 +1,464 @@
+.home {
+    width: 1233px;
+    height: 886px;
+    margin-top: 79px;
+    margin-left: 62px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid black;
+}
+
+.heading {
+    margin-top: 79px;
+    margin-left: 62px;
+    width: 588px;
+    height: 178px;
+    margin-left: 426px;
+    gap: 16px;
+    opacity: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.heading .heading-title {
+    font-family: "Covered By Your Grace";
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 36px;
+    color: rgba(45, 169, 80, 1);
+}
+
+.heading .heading-description {
+    font-style: "Manrope";
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 67.2px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 112px;
+    margin-left: 197.81px;
+    margin-bottom: 300.2px;
+}
+
+.about .container-1 {
+    position: relative;
+}
+
+.abount .container-1 .image {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.about .container-1 img {
+    border-radius: 50px;
+}
+
+.about .container-1 .image {
+    position: relative;
+}
+
+.about .container-1 .image .price {
+    width: 290.49px;
+    top: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    left: 292.31px;
+    position: absolute;
+    height: 239px;
+    padding: 34px 30px 40px 36px;
+    gap: 20px;
+    border-radius: 28.36px;
+    border: 1.18px solid;
+    border-image-source: linear-gradient(159.14deg, #3D3D3D 6.08%, rgba(61, 61, 61, 0) 85.58%);
+    opacity: 0px;
+    background: rgba(0, 46, 24, 1);
+    color: white;
+    box-shadow: 0px 23.63px 37.81px 0px rgba(30, 30, 30, 0.09);
+
+}
+
+.about .container-1 .image .price .price-amount {
+    width: 221px;
+    height: 76px;
+    gap: 11px;
+    opacity: 0px;
+}
+
+.about .container-1 .image .price .price-amount .span-1 {
+    width: 119px;
+    height: 76px;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 10px;
+    font-family: Switzer;
+    font-size: 63.37px;
+    font-weight: 500;
+    line-height: 76.05px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color:
+        rgba(255, 255, 255, 1);
+}
+
+.about .container-1 .image .price .price-amount .span-2 {
+    font-family: Switzer;
+    font-size: 22.81px;
+    font-weight: 500;
+    line-height: 31.94px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color:
+        rgba(166, 163, 160, 1);
+    width: 91px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.about .container-1 .image .price .price-description {
+    width: 224.49px;
+    height: 69px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 15px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.4px;
+    text-align: left;
+    color:
+        rgba(204, 204, 204, 1);
+}
+
+.about .container-1 .image .discount {
+    width: 267.82px;
+    height: 239px;
+    position: absolute;
+    top: 114px;
+    left: -144.69px;
+    padding: 30px 0px 0px 0px;
+    padding-left: 40px;
+    gap: 10px;
+    border-radius: 27.11px;
+    opacity: 0px;
+    background-color:
+        rgba(255, 255, 255, 1);
+    box-shadow: 0px 22.59px 36.14px 0px rgba(30, 30, 30, 0.09);
+}
+
+.about .container-1 .image .discount img {
+    top: -40px;
+    left: -20px;
+    width: 79.17px;
+    height: 78.48px;
+    position: absolute;
+}
+
+.about .container-1 .image .discount .discount-title {
+    width: 121px;
+    height: 77px;
+    gap: 0px;
+    opacity: 0px;
+    margin-bottom: 15px;
+    font-family: Switzer;
+    position: relative;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 76.8px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+}
+
+.about .container-1 .image .discount .discount-description {
+    width: 207.82px;
+    height: 92px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.4px;
+    color:
+        rgba(130, 130, 130, 1);
+}
+
+.about .container-1 .image .days {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 412.71px;
+    background-color:
+        rgba(255, 255, 255, 1);
+    left: -49.62px;
+    padding: 16px 32px 16px 16px;
+    gap: 14px;
+    border-radius: 111.54px;
+    opacity: 0px;
+    box-shadow: 0px 15.21px 35.49px 0px rgba(0, 0, 0, 0.09);
+
+}
+
+.about .container-1 .image .days .days-content-1 img {
+    width: 52px;
+    height: 52px;
+}
+
+.about .container-1 .image .days .days-content-2 .title {
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32.78px;
+    text-align: left;
+    color:
+        rgba(28, 28, 28, 1);
+}
+
+.about .container-1 .image .days .days-content-2 .description {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20.8px;
+    text-align: left;
+    color:
+        rgba(130, 130, 130, 1);
+}
+
+.about .container-1 .image .days img {
+    width: 25px;
+    height: 25px;
+    top: 4px;
+    left: 3px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.about .container-2 .content {
+    text-align: right;
+    width: 398px;
+    position: absolute;
+    height: 192px;
+    margin-top: 71px;
+    left: 897px;
+    font-family: Manrope;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}
+
+.carasoul {
+    position: absolute;
+    margin-top: 55px;
+    left: 897px;
+    margin-top: 318px;
+}
+
+.about .container-2 .carasoul .dot {
+    cursor: pointer;
+    height: 10.75px;
+    width: 10.75px;
+    margin: 0 5px;
+    background-color:
+        rgba(228, 227, 227, 1);
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.about .container-2 .carasoul .dot-1 {
+    cursor: pointer;
+    height:
+        10.75px;
+    width:
+        10.75px;
+    margin: 0 2px;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    background-color:
+        rgba(45, 169, 80, 1);
+}
+
+.about .container-2 .carasoul .dot:hover {
+    background-color:
+        rgba(202, 208, 203, 1);
+}
+
+.about .container-2 .button {
+    width: 245px;
+    height: 88px;
+    text-align: center;
+    position: absolute;
+    margin-top: 459px;
+    left: 897px;
+    padding: 31px 40px 31px 40px;
+    gap: 16px;
+    background-color: rgba(28, 28, 28, 1);
+    border-radius: 100px;
+    opacity: 0px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27.32px;
+    text-align: center;
+    color:
+        rgba(255, 255, 255, 1);
+}
+
+.about .container-2 .button .arrow {
+    margin-left: 10px;
+}
+
+.about .container-2 .button:hover {
+    background-color:
+        rgba(78, 78, 78, 1);
+}
+
+.question {
+    margin-left: 32px;
+    margin-right: 32px;
+    border-radius: 40px;
+    padding-bottom: 60px;
+    opacity: 0px;
+    display: flex;
+    background-color: rgba(232, 238, 231, 1);
+}
+
+.question .title {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-left: 94.5px;
+    gap: 20px;
+    opacity: 0px;
+}
+
+.question .title .stroke img {
+    width: 491px;
+    height: 514.61px;
+    margin-top: 83px;
+    gap: 0px;
+    opacity: 0.4px;
+    background-color: linear-gradient(220.41deg, #70558E 11.45%, rgba(112, 85, 142, 0) 90.79%);
+}
+
+.question .title .mind {
+    font-family: Covered By Your Grace;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 35.2px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(158, 157, 157, 1);
+}
+
+.question .title .ask {
+    font-family: Manrope;
+    display: inline-block;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 66px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: rgba(28, 28, 28, 1);
+}
+
+.question .queries {
+    display: flex;
+    flex-direction: column;
+    width: 581px;
+    height: 538px;
+    margin-top: 137px;
+    margin-left: 221.5px;
+    gap: 36px;
+    opacity: 0px;
+}
+
+.question .queries .query {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.question .queries .query .query-content {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+}
+
+.question .queries .query .plus:hover {
+    cursor: pointer;
+}
+
+.question .queries hr {
+    border: 1px solid rgba(215, 215, 215, 1);
+    width: 581px;
+}
+
+.question .queries .query .query-content .sub-content {
+    font-family: Manrope;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: rgba(97, 114, 117, 1);
+    margin-top: 25px;
+    display: block;
+}
+
+.footer {
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-top: 50px;
+    width: 1, 376px;
+    height: 144px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    opacity: 0px;
+    background-color: rgba(245, 245, 245, 1);
+}
+
+.footer .footer-content-1 {
+    margin-left: 50px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    line-height: 19.8px;
+    color: rgba(28, 28, 28, 1);
+}
+
+.footer .footer-content-1 .copyright {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.footer .footer-content-2 a {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19.8px;
+    text-align: left;
+    color: rgba(28, 28, 28, 1);
+    margin: 0 35px;
+}

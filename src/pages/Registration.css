@@ -1,0 +1,143 @@
+.reg-navbar{
+    width: 1, 392px;
+    height: 111.17px;
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.reg-navbar-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16.97px 20.89px 16.97px 52.22px;
+    border-radius: 65.28px;
+}
+.reg-navbar-content-1 img {
+    width: 121px;
+    height: 30.5px;
+    top: 7.86px;
+    left: 6.78px;
+}
+.reg-navbar-content-2 svg:hover{
+    cursor: pointer;
+}
+.form {
+    top: 141px;
+    gap: 62px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-title {
+    width: 588px;
+    height: 178px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.form-title .title {
+    font-family: Covered By Your Grace;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 39.6px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: rgba(45, 169, 80, 1);
+}
+.form-title .quote {
+    font-family: Manrope;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 67.2px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color:
+        rgba(28, 28, 28, 1);
+}
+.registration-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.form-group {
+    margin: 25px 0;
+}
+.form-group input {
+    width: 345px;
+    padding: 24px 36px 24px 36px;
+    gap: 10px;
+    border-radius: 64px;
+    background-color: rgba(239, 239, 239, 1);
+    opacity: 0px;
+    border: 1px solid rgba(0, 0, 0, 0.02)
+}
+
+.form-group ::placeholder {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27.32px;
+    margin-bottom: 10px;
+    color: rgba(130, 122, 122, 1);
+}
+.registration-box button{
+    margin-top: 15px;
+}
+.registration-box .disabled {
+    width: 417px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24.59px;
+    text-align: center;
+    border: none;
+    padding: 26.11px 49.61px 26.11px 41.78px;
+    gap: 15.67px;
+    border-radius: 107.06px;
+    opacity: 0px;
+    background-color:
+        rgba(201, 201, 201, 1);
+    color: rgba(255, 255, 255, 1);
+}
+.registration-box .button {
+    width: 417px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24.59px;
+    text-align: center;
+    border: none;
+    padding: 26.11px 49.61px 26.11px 41.78px;
+    gap: 15.67px;
+    border-radius: 107.06px;
+    opacity: 0px;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 1);
+    background: linear-gradient(97.55deg, #1C1C1C 2.63%, #454444 105.2%),
+        linear-gradient(0deg, #C9C9C9, #C9C9C9);
+}
+input {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27.32px;
+}
+input:focus {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27.32px;
+}
+.error-message {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.86px;
+    color: rgba(255, 8, 8, 1);
+}

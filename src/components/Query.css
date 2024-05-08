@@ -1,0 +1,34 @@
+.question .queries {
+    display: flex;
+    flex-direction: column;
+    width: 581px;
+    height: 538px;
+    margin-top: 137px;
+    margin-left: 221.5px;
+    gap: 36px;
+    opacity: 0px;
+}
+
+.query {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.query .query-content {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+}
+
+.query .plus:hover {
+    cursor: pointer;
+}
+
+.question .queries hr {
+    border: 1px solid rgba(215, 215, 215, 1);
+    width: 581px;
+}
+
